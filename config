@@ -1,0 +1,10 @@
+
+Host ctc Ctc CTC
+	HostName ctc-montreal-prod.rls.vecnarobotics.com
+	User pranav.kumar
+
+Host * 
+	ServerAliveInterval 600
+	ServerAliveCountMax 48
+	User Root
+	Port 22
