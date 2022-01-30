@@ -1,7 +1,7 @@
 
-Host ctc Ctc CTC
-	HostName ctc-montreal-prod.rls.vecnarobotics.com
-	User pranav.kumar
+Host google Google GOOGLE
+	HostName xyz.google.com
+	User x.y
 
 Host * 
 	ServerAliveInterval 600
