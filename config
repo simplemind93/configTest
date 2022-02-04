@@ -1,3 +1,8 @@
+Host msn Msn MSN
+	HostName xyz.msn.com
+	User x.y
+	Port 445
+
 Host yahoo Yahoo YAHOO
 	HostName xyz.yahoo.com
 	User x.y
