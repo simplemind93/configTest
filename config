@@ -1,3 +1,6 @@
+Host yahoo Yahoo YAHOO
+	HostName xyz.yahoo.com
+	User x.y
 
 Host google Google GOOGLE
 	HostName xyz.google.com
